@@ -1,0 +1,6 @@
+[book]
+authors = ["Bangdayeon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "BDStudy"
